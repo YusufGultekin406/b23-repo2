@@ -1,0 +1,7 @@
+coffee: 4.99 150 cal
+donut:.99 250 cal
+
+bread basket: 4.55
+Halal guys combo: 9
+
+iced coffee: 3.99
