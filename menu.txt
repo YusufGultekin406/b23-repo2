@@ -9,3 +9,5 @@ iced coffee: 3.99
 Lunch menu: 
 butter chicken: cat
 turkey
+burger
+veggie straw
